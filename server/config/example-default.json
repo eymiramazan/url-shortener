@@ -1,0 +1,4 @@
+{
+  "mongoURI": "YOUR-MONGO-URL-GOES-HERE",
+  "baseUrl": "http://localhost:5000"
+}
