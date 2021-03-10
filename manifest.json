@@ -1,8 +1,8 @@
 {
-  "name": "My Extension",
+  "name": "URL SHORTENER EXTENSION",
   "version": "0.2",
   "manifest_version" : 2,
-  "description": "Shorten ur url",
+  "description": "Shorten your url",
   "background" : {
     "scripts" : ["background.js"],
     "persistent": false
